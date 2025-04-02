@@ -1,0 +1,8 @@
+.env
+.env.local
+.env.*.local
+
+**/README
+**/README.*
+
+script.py.mako
